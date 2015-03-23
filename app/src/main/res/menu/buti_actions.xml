@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_undo"
+        android:icon="@drawable/ic_action_undo"
+        android:title="desfer"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_redo"
+        android:title="refer"
+        android:icon="@drawable/ic_action_redo"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:title="Reset"
+        android:icon="@drawable/ic_action_undo"
+        app:showAsAction="never" />
+</menu>

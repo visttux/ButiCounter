@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Buti Counter</string>
+
+    <string-array name="apuestas">
+        <item>Normal</item>
+        <item>Contrat</item>
+        <item>Recontrat</item>
+        <item>Barracat</item>
+        <item>St. Vicentat</item>
+        <item>Botifarra</item>
+        <item>Botifarra Contrada</item>
+        <item>Botifarra Recontrada</item>
+        <item>Botifarra Barracada</item>
+        <item>Botifarra St. Vicentada</item>
+    </string-array>
+
+</resources>
